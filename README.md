@@ -30,6 +30,6 @@ Just I'm a S.I academic at UFPI, who likes anime and enthusiastic about technolo
 <!-- ![Snake animation](https://github.com/Pepyn0/Pepyn0/blob/output/github-contribution-grid-snake.svg) -->
 
 ------
-Credits: [Pepyn0](https://github.com/Atillaisfake)
+Credits: [Atillaisfake](https://github.com/Atillaisfake)
 
 Last Edited on: 17/09/2021
